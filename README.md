@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineer-II+at+Thermo+Fisher;AI+Solutions+Developer;Backend+Architecture+Enthusiast;Tech+Writer+%26+Blogger)
+![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Developer;AI+Solutions+Developer;Backend+Architecture+Enthusiast;Tech+Writer+%26+Blogger)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punyasloka-mahapatra-966080148/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shlokmahapatra)
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer-II** at **Thermo Fisher Scientific**, where I specialize in crafting intelligent AI solutions that make a real impact. With over 5 years of experience under my belt, I've developed a deep love for building scalable backend systems and exploring the fascinating world of artificial intelligence.
+I'm a passionate **Software Developer** who specializes in crafting intelligent AI solutions that make a real impact. With over 5 years of experience under my belt, I've developed a deep love for building scalable backend systems and exploring the fascinating world of artificial intelligence.
 
 When I'm not coding, you'll find me sharing my thoughts and learnings through technical writing on Medium and Hashnode. I believe in the power of knowledge sharing and community-driven growth.
 
@@ -46,7 +46,7 @@ When I'm not coding, you'll find me sharing my thoughts and learnings through te
 
 ## 🎯 What I'm Currently Working On
 
-- 🔬 Developing cutting-edge AI solutions at Thermo Fisher Scientific
+- 🔬 Developing cutting-edge AI solutions and backend systems
 - 🏗️ Building scalable microservices architecture
 - ✍️ Writing technical articles about AI and software engineering
 - 🚀 Exploring the latest trends in backend development
@@ -55,11 +55,11 @@ When I'm not coding, you'll find me sharing my thoughts and learnings through te
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=punyaslokamahapatra&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=this-is-shlok&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=punyaslokamahapatra&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=this-is-shlok&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=punyaslokamahapatra&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=this-is-shlok&theme=radical&hide_border=true)
 
 </div>
 
@@ -88,9 +88,9 @@ Feel free to reach out if you'd like to discuss any of these areas or just want 
 
 ### 💬 Get in Touch
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punyasloka.mahapatra@myyahoo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punyasloka-mahapatra-966080148/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShlokMahapatra)
 
 ---
 
