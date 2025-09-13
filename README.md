@@ -1,12 +1,12 @@
-# 👋 Hey there! I'm Punyasloka Mahapatra
+# 👋 Hello there! This is Punyasloka from India
 
 <div align="center">
   
 ![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Developer;AI+Solutions+Developer;Backend+Architecture+Enthusiast;Tech+Writer+%26+Blogger)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punyasloka-mahapatra-966080148/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shlokmahapatra)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@shlokpm1711)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@punyasloka_m)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@punyasloka-mahapatra)
 
 </div>
 
@@ -24,6 +24,10 @@ When I'm not coding, you'll find me sharing my thoughts and learnings through te
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+### 🌐 Web Technologies
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 ### 🏗️ Frameworks & Technologies
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Google Guice](https://img.shields.io/badge/Google_Guice-4285F4?style=flat-square&logo=google&logoColor=white)
@@ -35,7 +39,21 @@ When I'm not coding, you'll find me sharing my thoughts and learnings through te
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ### 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🤖 AI & Machine Learning
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-4ECDC4?style=flat-square&logo=robot&logoColor=white)
+
+### 🛠️ Tools & Utilities
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apache&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Atlassian JIRA](https://img.shields.io/badge/Atlassian_JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ## 📚 Recent Work & Publications
 
@@ -51,23 +69,7 @@ When I'm not coding, you'll find me sharing my thoughts and learnings through te
 - ✍️ Writing technical articles about AI and software engineering
 - 🚀 Exploring the latest trends in backend development
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=this-is-shlok&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=this-is-shlok&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=this-is-shlok&theme=radical&hide_border=true)
-
-</div>
-
-## 📖 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Model Context Protocol (MCP): Supercharging LLMs with Context-Aware Intelligence](https://medium.com/@shlokmahapatra/model-context-protocol-mcp-supercharging-llms-with-context-aware-intelligence-12d59240722d)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🎓 Education
 
@@ -90,7 +92,7 @@ Feel free to reach out if you'd like to discuss any of these areas or just want 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punyasloka.mahapatra@myyahoo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punyasloka-mahapatra-966080148/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShlokMahapatra)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Punyasloka_M)
 
 ---
 
